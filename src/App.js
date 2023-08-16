@@ -33,9 +33,6 @@ function App() {
 
             <div className="socialIcons">
 
-            <a href="https://www.linkedin.com/in/vijitha-bandara-2a450a237/">
-                    <i className="fab fa-linkedin"></i>
-                </a>
                 <a href="https://www.linkedin.com/in/vijitha-bandara-2a450a237/">
                     <i className="fab fa-linkedin"></i>
                 </a>
