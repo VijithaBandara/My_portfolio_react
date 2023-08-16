@@ -36,6 +36,9 @@ function App() {
             <a href="https://www.linkedin.com/in/vijitha-bandara-2a450a237/">
                     <i className="fab fa-linkedin"></i>
                 </a>
+                <a href="https://www.linkedin.com/in/vijitha-bandara-2a450a237/">
+                    <i className="fab fa-linkedin"></i>
+                </a>
              
                 <a href="https://github.com/VijithaBandara">
                     <i className="fab fa-github"></i>
